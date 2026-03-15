@@ -12,6 +12,6 @@ Also yes it is private as hell and internet is not required.
 You only need internet for installing it... maybe
 
 btw here is what chezOS does (in beta v1.1 chezos will do this and further)
-write to your user registry
+write to the ChezOS user registry in freg or other
 waste only 4MB of ram
 and.... idk ill add a taskbar and the working notepad ig
