@@ -1,17 +1,28 @@
-# ChezOS
-Welp, its here! i worked on it for a long long time, about 1 week cuz i had to handle AI stuff but i deleted it cuz its a bit difficult. 
+### ChezOS
+ChezOS is an fake operating system in win32 API.
+Created in C++, it supports classes PLUS lightweightness
+Compiled using minGW g++.
 
-# What IS exacly ChezOS?
-Similar to linux. YEP, that is true
-Its really a beta v1.0, a basic file system :/
-Maybe in beta 1.3 ill finish the terminal
-For any people that want to be contributors, feel free to comment on this repo to be a potential contributor
-also yes this is open source
+### How to install?
+Pretty basic if im honest.
 
-Also yes it is private as hell and internet is not required.
-You only need internet for installing it... maybe
+2 ways:
+First way
+Install the zip
+Unzip it
+AND run the executable
 
-btw here is what chezOS does (in beta v1.1 chezos will do this and further)
-write to the ChezOS user registry in freg or other
-waste only 4MB of ram
-and.... idk ill add a taskbar and the working notepad ig
+Second one
+Install the installer.exe and follow the steps.
+Notice, that the installer uses scoop git that gets automatically installed and stays, so delete scoop (within git) if you do not choose to use it.
+
+### How to Build?
+Add G++ from mingw to path, and run ./clean from main directory.
+
+### How does it work?
+Multi compilation, lemme plan it out for you
+
+[Bootloader] -> [Kernel + Header Files] -> [Win32 API] 
+Basic, but yeah.
+
+### Details in releases for the versions.
